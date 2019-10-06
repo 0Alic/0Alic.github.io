@@ -317,3 +317,10 @@ body {
   -o-animation-name: fadeInUp;
   animation-name: fadeInUp;
   }
+
+
+@media only screen and (min-width: 1200px) {
+  .separatorForMobile {
+    display: none;
+  }
+}
