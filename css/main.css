@@ -70,7 +70,7 @@ a:after {
 /* Header Wrap */
 .header {
   background: #1CBCAD;
-  background: url(../images/header-bg-duck.jpg) no-repeat center top;
+  /* background: url(../images/header-bg-duck.jpg) no-repeat center top; */
   padding-top:140px;
   text-align:center;
   background-attachment: relative;
@@ -110,8 +110,16 @@ a:after {
 /* About Wrap */
 .about {
   background: #2c3e50;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 5px;
+  padding-bottom: 20px;
+  color: white;
+} 
+
+/* Menu Wrap */
+.menu {
+  background: #2c3e50;
+  padding-top: 20px;
+  padding-bottom: 10px;
   color: white;
 } 
 
